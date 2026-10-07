@@ -1,0 +1,6 @@
+{
+  "name": "TOEIC Reading Practice Test 6",
+  "description": "Interactive TOEIC Reading Practice Test 6 with immediate answers, comprehensive grammar and reading explanations, and Chinese translations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
